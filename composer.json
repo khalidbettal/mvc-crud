@@ -1,0 +1,15 @@
+{
+    "name": "elitebook/app",
+    "autoload": {
+        "psr-4": {
+            "main\\": "main/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khalidbettal",
+            "email": "khalidbettal@gmail.com"
+        }
+    ],
+    "require": {}
+}
